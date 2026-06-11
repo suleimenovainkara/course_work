@@ -13,6 +13,14 @@ This project combines a fully functional banking desktop application with a frau
 - Integrate a machine learning model for real-time fraud detection on pending transactions
 - Flag suspicious transactions automatically based on predicted fraud probability
 
+## Repository Structure
+- BankApp - Desktop application (CustomTkinter)
+- BankAppDB - DataBase (SQL Server)
+- Suleimenova Inkara course work.docx - Course work paper
+- fraud detection.pptx - Defense presentation
+- fraud_detection.ipynb - ML model training notebook
+- fraud_detection_model.pkl - Trained Logistic Regression model
+
 ## Dataset
 - Name - Synthetic Financial Datasets for Fraud Detection
 - Source - https://www.kaggle.com/datasets/ealaxi/paysim1
